@@ -1,0 +1,94 @@
+
+header{
+    background-color: beige;
+    display: flex;
+    justify-content:space-between;
+}
+
+#titulo{
+    font-size: 80px;
+    font-family: initial;
+    margin-top: 300px;
+}
+
+#restaurant{
+    display: flex;
+    justify-content: end;
+}
+
+.inicio{
+    background-color: #ff6300;
+    height: 780px;
+    display: flex;
+    justify-content:space-around;
+}
+
+.imgcocinando{
+    display: flex;
+    justify-content: end;
+
+}
+.comida{
+    width: 1500px;
+    height: 1000px;
+}
+
+#logo{
+    width: 130px;
+    height: 130px;
+    background-color: 
+}
+
+nav{ 
+    width: 700px;
+    height: 50px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.platillos {
+    background-color: black;
+}
+
+.bebidas{
+    background-color: rgb(81, 79, 79);
+}
+
+.complementos{
+    background-color: gray;
+}
+
+.pastel, .ladron, .estofado, .yapp, .yasa, .mariscos, .bebidaSoda, .bebidaJengibre, .bebidaBissap, .alokas, .tomate, .yassa, .arroz, .pimienta {
+    background-color: white;
+    width: 310px;
+    height: 360px;
+    border-radius: 10px 10px 10px 10px;
+    text-align: center;
+}
+
+#pastel, #ladron, #estofado, #yapp, #yasa, #mariscos, #bissap, #jengibre, #soda, #alokas, #tomate, #yassa, #arroz, #pimienta {
+    width: 300px;
+    height: 200px;
+    padding: 5px;
+}
+
+#tituloPlatillo, #tituloBebidas, #tituloComplementos{
+    color: white;
+    text-align: center;
+    font-size: 40px;
+}
+
+.platillos1, .platillos2, .bebidas, .complementos1, .complementos2 {
+    display: flex;
+    justify-content: center;
+}
+
+.contacto {
+    background-color: #ff6300;
+    display: flex;
+    justify-content: space-around;
+}
+
+.inputs{
+    margin: 40px 0 30px 0;
+}
